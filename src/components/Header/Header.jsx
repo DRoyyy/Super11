@@ -1,11 +1,9 @@
 import logo from "../../assets/images/logo.png";
 import bgShadow from "../../assets/images/bg-shadow.png";
 import banner from "../../assets/images/banner-main.png";
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 
-const Header = ({addFreeCredit, credit, creditClaimed}) => {
-  
-
+const Header = ({ addFreeCredit, credit, creditClaimed }) => {
   return (
     <div className="max-w-screen-2xl mx-auto m-8">
       <nav className="flex items-center justify-between">
@@ -48,9 +46,9 @@ const Header = ({addFreeCredit, credit, creditClaimed}) => {
 };
 
 Header.propTypes = {
-    addFreeCredit: PropTypes.func,
-    credit: PropTypes.number,
-    creditClaimed: PropTypes.bool
-}
+  addFreeCredit: PropTypes.func,
+  credit: PropTypes.number,
+  creditClaimed: PropTypes.bool,
+};
 
 export default Header;
