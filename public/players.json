@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "rating": 898,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 110,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg"
+    },
+    {
+      "id": 2,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "rating": 890,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 110,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/AB_de_villiers_%28cropped%29.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "rating": 907,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 100,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Steve_Smith_%2848094026552%29.jpg/800px-Steve_Smith_%2848094026552%29.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Marnus Labuschagne",
+      "country": "Australia",
+      "rating": 846,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 90,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/1_08_Marnus_Labuschagne_%28cropped%29.jpg/800px-1_08_Marnus_Labuschagne_%28cropped%29.jpg"
+    },
+    { 
+      "id": 5,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "rating": 830,
+      "role": "All-rounder",
+      "bowling_hand": "Left",
+      "batting_hand": "Left",
+      "price": 90,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/90/Shakib_al_hasan_4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ben Stokes",
+      "country": "England",
+      "rating": 795,
+      "role": "All-rounder",
+      "bowling_hand": "Right",
+      "batting_hand": "Left",
+      "price": 100,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ben_Stokes.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "rating": 770,
+      "role": "Bowler",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 120,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg"
+    },
+    {
+      "id": 8,
+      "name": "KL Rahul",
+      "country": "India",
+      "rating": 815,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 80,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/KL_Rahul_2022.jpg/1280px-KL_Rahul_2022.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "rating": 820,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 110,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/2015_CWC_I_v_UAE_02-28_Sharma_%2811%29_%28cropped%29.JPG"
+    },
+    {
+      "id": 10,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "rating": 788,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 110,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kane_Williamson_in_2019.jpg"
+    },
+    {
+      "id": 11,
+      "name": "David Warner",
+      "country": "Australia",
+      "rating": 840,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Left",
+      "price": 90,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DAVID_WARNER_%2811704782453%29.jpg/800px-DAVID_WARNER_%2811704782453%29.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "rating": 790,
+      "role": "All-rounder",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 90,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Glenn_Maxwell_3.jpg/800px-Glenn_Maxwell_3.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "rating": 823,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 70,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Babar_Azam_in_2020.png"
+    },
+    {
+      "id": 14,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "rating": 875,
+      "role": "Batsman",
+      "bowling_hand": "Left",
+      "batting_hand": "Left",
+      "price": 80,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Two_views_of_Chris_Gayle_%2848020785077%29.jpg/1024px-Two_views_of_Chris_Gayle_%2848020785077%29.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Joe Root",
+      "country": "England",
+      "rating": 825,
+      "role": "Batsman",
+      "bowling_hand": "Right",
+      "batting_hand": "Right",
+      "price": 80,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Joe_root_training.jpg/1920px-Joe_root_training.jpg"
+    }
+  ]
+  
